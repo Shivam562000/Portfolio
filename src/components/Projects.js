@@ -43,7 +43,7 @@ export const Projects = () => {
 
 	return (
 		<section className="project" id="projects">
-			<div className="project-bx wow zoomIn">
+			<div className="skill-bx wow zoomIn">
 			<Container>
 				<Row>
 					<Col size={12}>
