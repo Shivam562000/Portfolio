@@ -73,3 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # You can delpoy your app using netlify:
 Watch this : https://www.youtube.com/watch?v=OPalwvWO63U
+
+Credit : https://github.com/Trevor-akshay/
