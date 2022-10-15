@@ -36,7 +36,7 @@ export const Projects = () => {
 							Provides warning to end user.
 							Provides web security.`,
 			techStack: `Maachine Learning, XGBoost, Javascript, Nodejs`,
-			sourceCode: 'https://github.com/Shivam562000/',
+			sourceCode: 'https://github.com/Shivam562000/Phishing-dectection',
 			imgUrl: phishingattack,
 		},
 	];
